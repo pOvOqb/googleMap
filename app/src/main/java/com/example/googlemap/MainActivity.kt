@@ -24,7 +24,7 @@ class MainActivity : AppCompatActivity(), OnMapReadyCallback {
     }
 
     override fun onMapReady(p0: GoogleMap) {
-        mGoogleMap = googleMap
+        mGoogleMap = googleMap // dkfjakl
         // 여기에 지도가 준비되었을 때의 작업을 추가할 수 있습니다.
     }
 }
